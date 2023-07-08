@@ -1,0 +1,22 @@
+{
+  "name": "readme_generator",
+  "version": "1.0.0",
+  "description": "A simple terminal app to generate a professional README.md file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicholas-Gregory/readme_generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nicholas-Gregory/readme_generator/issues"
+  },
+  "homepage": "https://github.com/Nicholas-Gregory/readme_generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
