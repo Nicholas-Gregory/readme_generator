@@ -89,19 +89,19 @@ ${getLicenseBadge(answers.license)}
 5. [Contributing](#Contributing)
 6. [Tests](#Tests)
 7. [Questions](#Questions)
-## Description
+## Description {#Description}
 ${answers.description}
-## Installation
+## Installation {#Installation}
 ${answers.installation}
-## Usage
+## Usage {#Usage}
 ${answers.usage}
-## License
+## License {#License}
 ${getLicenseBadge(answers.license)}  ${answers.license}
-## Contributing
+## Contributing {#Contributing}
 ${answers.contributing}
-## Tests
+## Tests {#Tests}
 ${answers.tests}
-## Questions
+## Questions {#Questions}
 If you have additional questions, email us at [${answers.email}](mailto:${answers.email}) or reach out on [Github](https://github.com/${answers.github}).
 `;
 }
