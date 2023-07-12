@@ -10,6 +10,8 @@
 7. [Questions](#Questions)
 ## Description {#Description}
 A simple command-line app for generating a professional README file
+
+![Screenshot](./images/screenshot.png)
 ## Installation {#Installation}
 
 ## Usage {#Usage}
