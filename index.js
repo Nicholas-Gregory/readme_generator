@@ -107,7 +107,7 @@ If you have additional questions, email us at [${answers.email}](mailto:${answer
 }
 
 const handleAnswers = answers => {
-    fs.writeFile("./output/README.md", generateMarkdown(answers), err => err ? console.error(err) : console.log('Success!'));
+    fs.writeFile("README.md", generateMarkdown(answers), err => err ? console.error(err) : console.log('Success!'));
 }
 
 inquirer.prompt(questions).then(answers => handleAnswers(answers));
